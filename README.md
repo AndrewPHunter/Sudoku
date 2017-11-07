@@ -2,11 +2,10 @@
 [AI Nanodegree Project](https://www.udacity.com/ai)
 
 <p>
-This project was performed as part of the Udacity nanodegree program. It solves a [diagonal sudoku](http://www.conceptispuzzles.com/?uri=puzzle/sudoku/rules) puzzle using constraint propogation utilizing the naked twin, elimination and only choice strategies.
+This project was performed as part of the Udacity nanodegree program. It solves a <a href='http://www.conceptispuzzles.com/?uri=puzzle/sudoku/rules'>diagonal sudoku</a> puzzle using constraint propogation utilizing the naked twin, elimination and only choice strategies.
 </p>
-<p>
+
 The full Udacity project description can be found in the [docs](./docs.md)
-</p>
 
 ### Getting Started
 * clone the repo
