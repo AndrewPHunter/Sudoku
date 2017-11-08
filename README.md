@@ -21,6 +21,19 @@ conda env create -f environment.yml
 pip install -r requirements.txt
 ```
 
+* (Anaconda Only) Activate the environment
+    * Windows
+    
+    ```sh
+    activate aind
+    ```
+    
+    * macOS and Linux
+    
+    ```sh
+    source activate aind
+    ```
+
 * run the project
 
 ```sh
